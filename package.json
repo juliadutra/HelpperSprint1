@@ -1,0 +1,24 @@
+{
+  "name": "helppersprint1",
+  "version": "1.0.0",
+  "description": "Sprint 1 ",
+ 
+  "scripts": {
+    "start": "tsc && node dist/exercicio1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliadutra/HelpperSprint1.git"
+  },
+  "author": "Julia Dutra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliadutra/HelpperSprint1/issues"
+  },
+  "homepage": "https://github.com/juliadutra/HelpperSprint1#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "typescript": "^4.4.4"
+  }
+}
