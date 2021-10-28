@@ -1,4 +1,3 @@
-console.log("Teste");
 let vowels : Array<string> = ["a", "e", "i", "o", "u"];
 
 function countVowels(word: string) : number {
@@ -10,5 +9,5 @@ function countVowels(word: string) : number {
     }
     return numberOfVowels
 }
-
-console.log(countVowels('Amor'));
+const palavra = "origins"
+console.log(`A palavra ${palavra} possui ${countVowels(palavra)} vogais.`);

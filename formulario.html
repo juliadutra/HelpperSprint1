@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador de Vogais</title>
+    <script src="./dist/exercicio1.js"></script>
+    <script>
+        function aoClicarNoBotao() {
+           let palavra = document.getElementById("campoPalavra").value
+           let qtdVogais = countVowels(palavra)
+           alert(`A palavra ${palavra} possui ${qtdVogais}.`)
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="campoPalavra">
+    <input type="button" value="Confirmar" onclick="aoClicarNoBotao()">
+</body>
+</html>
