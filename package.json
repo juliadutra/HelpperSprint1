@@ -8,6 +8,9 @@
     "exercicio1": "node dist/exercicio1.js",
     "exercicio2-1": "node dist/exercicio2.js",
     "exercicio2-2": "node dist/exercicio2funcional.js",
+    "exercicio3-1": "node dist/exercicio3.js",
+    "exercicio3-2": "node dist/exercicio3funcional.js",
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -11,3 +11,8 @@ Após a execução do tsc é possível também utilizar o arquivo formulario.htm
 O comando ```npm run exercicio2-1``` executa o arquivo referente à parte 1 do exercício 2, correspondendo ao exemplo de uso das funções especificadas nos comandos a) b) c) e d) com o paradigma imperativo.
 
 O comando ```npm run exercicio2-2``` executa o arquivo referente à parte 2 do exercício 2, correspondendo ao exemplo de uso das funções especificadas nos comandos a) b) c) e d) com o paradigma funcional.
+
+## Exercício 3:
+O comando ```npm run exercicio3-1``` executa o arquivo referente à parte 1 do exercício 3, correspondendo ao exemplo de uso da função especificada nos comandos a) b) e c) com o paradigma imperativo.
+
+O comando ```npm run exercicio3-2``` executa o arquivo referente à parte 2 do exercício 3, correspondendo ao exemplo de uso da função especificada nos comandos a) b) e c) com o paradigma funcional.
