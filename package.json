@@ -4,7 +4,10 @@
   "description": "Sprint 1 ",
  
   "scripts": {
-    "start": "tsc && node dist/exercicio1.js",
+    "build": "tsc",
+    "exercicio1": "node dist/exercicio1.js",
+    "exercicio2-1": "node dist/exercicio2.js",
+    "exercicio2-2": "node dist/exercicio2funcional.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
